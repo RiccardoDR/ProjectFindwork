@@ -1,0 +1,8 @@
+it.univpm.Esame
+it.univpm.Esame.Controller
+it.univpm.Esame.Exception
+it.univpm.Esame.Filters
+it.univpm.Esame.FindWorkApi
+it.univpm.Esame.Model
+it.univpm.Esame.Service
+it.univpm.Esame.Statistics
