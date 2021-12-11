@@ -211,13 +211,3 @@ Sono state affettuati Test sulle classi : BodyClass, Filters, Lavoro, FilterStat
 
 Tra i file presenti nella repository c'è una cartella "txtdocs" che contiene alcuni file txt tra cui un file contenente il Token necessario per effettuare la chiamata API. </br>
 Il token è gia presente, se si vuole un proprio Token bisogna inserirlo nel file  "token.txt".
- 
- 
-# Autori
-
-<table>
-<tr><td>Nome e Cognome</td><td>Contributo</td><td>Email</td></tr>
-<tr><td>Fiore Garzarella</td><td>50%</td><td><a href="S1089186@studenti.univpm.it">S1089186@studenti.univpm.it</a></td></tr>
-<tr><td>Christian Parente</td><td>50%</td><td><a href="S1089031@studenti.univpm.it">S1089031@studenti.univpm.it</a></td></tr>
-</table>
-
